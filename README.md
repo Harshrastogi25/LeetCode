@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshrastogi25/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Harshrastogi25/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshrastogi25/LeetCode/tree/master/0018-4sum) |
+| [0152-maximum-product-subarray](https://github.com/Harshrastogi25/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Harshrastogi25/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshrastogi25/LeetCode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Harshrastogi25/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->

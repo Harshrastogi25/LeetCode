@@ -4,8 +4,8 @@ public:
         int n=nums.size();
         vector<int> ans;
         unordered_map<int,int> mp;
-        for (int num : nums){
-            mp[num]++;
+        for (int i=0;i<n;i++){
+            mp[nums[i]]++;
         }
         for(auto it : mp){
             if (it.second>(n/3)){
